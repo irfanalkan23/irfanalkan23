@@ -14,15 +14,15 @@
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
-<img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> title="Java" alt="Java" width="40" height="40"/>&nbsp;
-<img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg"/> title="Java" alt="Java" width="40" height="40"/>&nbsp;
-<img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/> title="Java" alt="Java" width="40" height="40"/>&nbsp;
-<img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"/> title="Java" alt="Java" width="40" height="40"/>&nbsp;
-<img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> title="Java" alt="Java" width="40" height="40"/>&nbsp;
-<img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> title="Java" alt="Java" width="40" height="40"/>&nbsp;
-<img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/> title="Java" alt="Java" width="40" height="40"/>&nbsp;
-<img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/> title="Java" alt="Java" width="40" height="40"/>&nbsp;
-<img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg"/> title="Java" alt="Java" width="40" height="40"/>
+<img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+<img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+<img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+<img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+<img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+<img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+<img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+<img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+<img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" title="Java" alt="Java" width="40" height="40"/>
 <div>
   
 <!--

@@ -1,6 +1,6 @@
 ### Hi there 👋
 - I'm a Software Developer Engineer in Test (SDET) | Software Quality Assurance (QA) Test Automation Engineer
-- 🌱 I’m currently learning Java Lambda Expressions, Functional Interfaces and Stream
+- 🌱 I’m currently learning Spring Boot through my goal of becoming a Java Developer
 - 👯 I’m looking to collaborate on UI-API-DB QA Test Automation
 - 💬 Ask me about Java, Selenium, Cucumber BDD Framework, POM, Postman, RestAssured, JUnit5
 - 📫 How to reach me: irfanalkan@gmail.com, 23pointalpha@gmail.com, https://www.linkedin.com/in/irfan-alkan-35927515a/

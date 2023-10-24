@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Spring Boot through my goal of becoming a Java Developer
 - 👯 I’m looking to collaborate on UI-API-DB QA Test Automation
 - 💬 Ask me about Java, Selenium, Cucumber BDD Framework, POM, Postman, RestAssured, JUnit5
-- 📫 How to reach me: irfanalkan@gmail.com, 23pointalpha@gmail.com, https://www.linkedin.com/in/irfan-alkan-35927515a/
+- 📫 How to reach me: irfanalkan@gmail.com, 23pointalpha@gmail.com, https://www.linkedin.com/in/irfan-alkan/
 - :speech_balloon: "Always deliver more than expected" Larry Page
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=irfanalkan23&show_icons=true"/>

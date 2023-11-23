@@ -1,8 +1,8 @@
 ### Hi there 👋
-- I'm a Software Developer Engineer in Test (SDET) | Software Quality Assurance (QA) Test Automation Engineer
-- 🌱 I’m currently learning Spring Boot through my goal of becoming a Java Developer
-- 👯 I’m looking to collaborate on UI-API-DB QA Test Automation
-- 💬 Ask me about Java, Selenium, Cucumber BDD Framework, POM, Postman, RestAssured, JUnit5
+- I'm a Software Quality Assurance (QA) Test Automation Engineer and Java Backend Developer
+- 🌱 I learned Spring Boot, Spring MVC with Thymeleaf, Spring ORM, Spring REST
+- 👯 I’m looking to collaborate on Java Backend Development and also UI-API-DB QA Test Automation
+- 💬 Ask me about Java, Spring Framework, Selenium, Cucumber BDD Framework, Postman, RestAssured, JUnit5 
 - 📫 How to reach me: irfanalkan@gmail.com, 23pointalpha@gmail.com, https://www.linkedin.com/in/irfan-alkan/
 - :speech_balloon: "Always deliver more than expected" Larry Page
 

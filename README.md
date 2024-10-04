@@ -30,6 +30,8 @@
 <img height=40 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>
 <img height=40 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>
 <img height=40 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/apachekafka/apachekafka-original.svg" title="Kafka" alt="Kafka" width="40" height="40"/>  
+<img height=40 src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
+<img height=40 src="https://github.com/devicons/devicon/blob/v2.16.0/icons/css3/css3-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
 <div>
   
 <!--

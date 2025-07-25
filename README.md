@@ -1,10 +1,9 @@
 ### Hi there 👋
-- I'm a Software Quality Assurance (QA) Test Automation Engineer and Java Backend Developer
-- 🌱 I learned Spring Boot, Spring MVC with Thymeleaf, Spring ORM, Spring REST and Microservices
-- 🌱 I'm learning JavaScript, HTML, CSS.
-- 🌱 I'm learning AWS Cloud Practitioner.
-- 👯 I’m looking to collaborate on Java Backend Development and also UI-API-DB QA Test Automation
-- 💬 Ask me about Java, Spring Framework, Selenium, Cucumber BDD Framework, Postman, RestAssured, JUnit5 
+- I'm a Cybersecurity Analyst, SOC Blue Team Leader.
+- I like developing web and mobile applications.
+- 🌱 Learning full stack development, JavaScript, HTML, CSS, Flutter.
+- 🌱 Learning AWS Cloud Practitioner.
+- 👯 I’m looking to collaborate on Cybersecurity, Full Stack Development, Application Security.
 - 📫 How to reach me: irfanalkan@gmail.com, 23pointalpha@gmail.com, https://www.linkedin.com/in/irfan-alkan/
 - :speech_balloon: "Always deliver more than expected" Larry Page
 

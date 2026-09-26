@@ -3,7 +3,7 @@
 - I like developing web and mobile applications.
 - AWS Cloud Practitioner.
 - 👯 I’m looking to collaborate on Cybersecurity, Full Stack Development, Application Security.
-- 📫 How to reach me: irfanalkan@gmail.com, 23pointalpha@gmail.com, https://www.linkedin.com/in/irfan-alkan/, irfanalkan.com
+- 📫 How to reach me: irfanalkan@gmail.com, 23pointalpha@gmail.com, https://www.linkedin.com/in/irfan-alkan/, https://irfanalkan.com/
 - :speech_balloon: "Always deliver more than expected" Larry Page
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=irfanalkan23&show_icons=true"/>
